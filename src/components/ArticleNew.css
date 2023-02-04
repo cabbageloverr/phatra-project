@@ -1,0 +1,164 @@
+:root {
+    --font:rgb(38, 12, 60);
+}
+
+.bg-top{
+    height: 875px;
+    padding-top: 120px;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(207,207,207,1) 77%);
+    display: flex;
+    display: grid;
+}
+
+.slant{
+    height: 50px;
+    border-top: 100px solid rgb(207, 207, 207);
+    border-right: 1600px solid transparent;
+    
+}
+
+
+.container-art{
+   margin: 0 auto;
+   
+   
+}
+
+.article-new{
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+   
+    position: relative;
+    justify-content: center ;
+}
+
+.all1{
+    text-decoration: none;
+    margin-left: 35rem;
+    color: rgb(130, 131, 131);
+}
+
+.article{
+    color: var(--font);
+    font-size: 30px;
+    font-weight: bold;
+}
+.new{
+    margin-left:9rem;
+    color: var(--font);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.all2{
+    margin-left: 15rem;
+    text-decoration: none;
+    color: rgb(130, 131, 131);
+    
+}
+
+.art{
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.art-text{
+    margin-left: 2.5rem;
+    width: 350px;
+    height: auto;
+    margin-bottom: 2rem;
+}
+.art-t{
+   text-decoration: none;
+    color: var(--font);
+}
+
+.art-t-p{
+    text-decoration: none;
+     color: rgb(78, 73, 73);
+ }
+
+ 
+
+.invest{
+    margin-top: 3rem;
+    color: rgb(95, 53, 95);
+}
+
+.pat{
+    margin-left: 5rem   ;
+    position:relative;
+    
+}
+
+.highlight h2   :hover{
+    text-decoration: underline rgb(102, 24, 102);
+}
+
+.highlight p   :hover{
+    text-decoration: underline rgb(102, 24, 102);
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+    background-color: rgb(193, 191, 191);
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 1rem;
+    margin-top: 1rem;
+  }
+
+  .movedot{
+    margin-left: 4.5cm;
+  }
+    
+.artbutton{
+    margin-top: 2rem;
+    justify-content: center;
+    display: flex;
+}
+
+.art-bt1 {
+    max-width: 350px;
+}
+
+.art-bt2  {
+    max-width: 300px;
+    margin-left: 6rem;
+}
+
+.index{
+    margin-left: 4.9em;
+}
+
+.art-t-bt {
+    text-decoration: none;
+    color:var(--font);
+}
+
+.art-bt1 h2{
+    margin-top: 1rem;
+  
+}
+
+.art-bt2 h2{
+    margin-top: 1rem;
+    
+}
+
+.art-bt1 h2 :hover{
+    text-decoration: underline rgb(102, 24, 102);
+}
+.art-bt2 h2 :hover{
+    text-decoration: underline rgb(102, 24, 102);
+}
+
+.inv{
+    margin-top: 1rem;
+}
+

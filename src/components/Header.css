@@ -1,0 +1,51 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    
+}
+
+.header{
+    background: rgb(42, 42, 42);
+    height: 90px;
+    align-items: center;
+    display: flex;
+    
+}
+
+.logo{
+    width:200px;
+    padding-left: 1cm;
+   
+}
+
+.logo-container{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.fisearch{
+    color: aliceblue;
+    margin-left: 65rem;
+    width: 35px;
+    height: 35px;
+    
+}
+
+.mobile-menu{
+    color: aliceblue;
+    padding-left: 15px;
+        
+}
+
+.fimenu{
+    width: 35px;
+    height: 35px;
+}
+
+.fix{
+    width: 35px;
+    height: 35px;
+}

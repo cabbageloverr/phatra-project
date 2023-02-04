@@ -1,0 +1,104 @@
+.main-footer{
+    margin-top: 3rem;
+    height: auto;
+    background: rgb(141,114,172);
+    background: linear-gradient(15deg, rgba(141,114,172,1) 15%, rgba(90,57,173,1) 100%, rgba(111,99,168,1) 100%);
+    display: grid;
+}
+
+.f-container li{
+    list-style: none;
+}
+
+.f-container{
+   margin: auto;
+}
+
+.row{
+    margin-top:2rem;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    border-bottom: 20px;
+    border-bottom-style:solid;
+    border-bottom-width: 1px;
+    color: rgb(143, 140, 140);
+    
+}
+
+.col img{
+    width:200px;
+}
+.col2,.col3,.col4{
+    margin-left: 6rem;
+}
+
+.tunpat{
+    margin-top: 1rem;
+}
+
+.row,.lc li,h3,a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+
+.col2 div, .col3 div ,.col4 div{
+    margin-top: 2rem;
+}
+
+.tunpat li,.col2 li,.col3 li, .col4 li{
+    margin-top: 0.5rem;
+}
+
+.iconft{
+    font-size: 30px;
+    margin-right: 1rem;
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    
+}
+
+.fb{
+    font-size: 50px;
+    
+}
+
+.tw{
+    font-size: 60px;
+    margin-left: 0.5rem;
+    
+}
+
+.yt{
+    font-size: 65px;
+
+}
+
+.planweb{
+    padding-bottom: 2rem;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin-top: 1rem;
+    justify-content: space-between;
+    
+    
+}
+
+.planweb ul{
+    display:flex;
+    
+}
+
+.planweb li{
+    margin-left: 2rem;
+    
+}
+
+

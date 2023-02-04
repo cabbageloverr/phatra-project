@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Roboto+Mono:wght@200&display=swap');
+
+
+
+.btn{
+    border-bottom: 4px outset rgb(189,164,218);;
+    background: rgb(224,224,224);
+    background: radial-gradient(circle, rgba(224,224,224,1) 0%, rgba(236,236,238,1) 56%, rgba(235,235,235,0.9878326330532213) 94%, rgba(238,238,238,1) 100%);
+    color: rgb(89, 11, 104);
+    height:300px;
+    width:300px;
+    cursor:pointer;
+    text-decoration: none;
+    padding: 20px 100px 20px 15px;
+    font-size: 25px;
+    font-family: 'Kanit';
+}
+
+.btnab{
+    border-bottom: 4px outset rgb(189,164,218);;
+    background: rgb(224,224,224);
+    background: radial-gradient(circle, rgba(224,224,224,1) 0%, rgba(236,236,238,1) 56%, rgba(235,235,235,0.9878326330532213) 94%, rgba(238,238,238,1) 100%);
+    color: rgb(89, 11, 104);
+    height:300px;
+    width:300px;
+    cursor:pointer;
+    text-decoration: none;
+    padding: 20px 130px 20px 15px;
+    font-size: 25px;
+    font-family: 'Kanit';
+}
+
+.btnaw{
+    border-bottom: 4px outset rgb(189,164,218);;
+    background: rgb(224,224,224);
+    background: radial-gradient(circle, rgba(224,224,224,1) 0%, rgba(236,236,238,1) 56%, rgba(235,235,235,0.9878326330532213) 94%, rgba(238,238,238,1) 100%);
+    color: rgb(89, 11, 104);
+    height:300px;
+    width:300px;
+    cursor:pointer;
+    text-decoration: none;
+    padding: 20px 140px 20px 15px;
+    font-size: 25px;
+    font-family: 'Kanit';
+
+}
+
+
+
+.button-group :hover {
+    background: rgb(189,164,218);
+    background: linear-gradient(90deg, rgba(189,164,218,1) 15%, rgba(146,124,203,1) 81%, rgba(111,99,168,1) 100%);
+    color: white;
+    font-family: 'Kanit';
+    border-color: transparent;
+}
+
+.buttonall{
+    display: flex;
+    margin: 0 auto;
+    
+}
+.button-group{
+    margin: auto;
+    display: flex;
+    
+    
+    
+}
+
+.button-group li {
+  display: inline-block;
+  list-style: none;
+  margin-left: 2em;
+  background-color: #262626;
+  margin-top: 10px;
+  z-index: 100;
+  position: relative;
+  
+  
+  
+}
+
+
+

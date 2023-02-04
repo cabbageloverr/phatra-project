@@ -1,0 +1,146 @@
+:root {
+    --font:rgb(38, 12, 60);
+}
+
+
+.kkp-container{
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+.kkp-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.kkp-con h2{
+    color:var(--font);
+    margin-left: 1rem;
+    font-size: 30px;
+}
+
+.line{
+    margin-right: 1rem;
+    font-size: 40px;
+    color: rgb(128, 118, 136);
+    
+   
+}
+
+
+.title  {
+    color:rgb(92, 90, 90);
+    margin-left: 4rem;
+    font-size: 20px;
+}
+
+.vdo-bt{
+    justify-content: center;
+    display: flex;
+    margin-top: 3rem;
+    
+}
+
+.vdo-bt li{
+    list-style: none;
+    display: inline-block;
+    list-style: none;
+    margin-left: 2em;
+    background-color: transparent;    
+}
+.vdo-bt a{
+    text-decoration: none;
+    border-right: 2px outset rgb(222, 208, 239);;
+    color: rgb(149, 144, 149);
+    height:300px;
+    width:300px;
+    cursor:pointer;
+    text-decoration: none;
+    padding: 10px 50px 10px 40px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.paddingr{
+    padding-right: 30rem;
+    
+}
+
+.vdo-bt a:hover{
+    color: rgb(73, 49, 95);
+}
+
+.Fonpart{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.ftext{
+    max-width:  200px;
+    margin-left: 10rem;
+    border-bottom: 20px;
+    border-bottom-style:solid;
+    border-bottom-width: 1px;
+    color: rgb(143, 140, 140);
+    
+}
+
+.ftext h2{
+    color: var(--font);
+    margin-bottom: 1.5rem;
+    font-size: 25px;
+    padding-top: 50px;
+    border-top: 20px;
+    border-top-style:solid;
+    border-top-width: 1px;
+    border-color:rgb(143, 140, 140);;
+    
+}
+
+.ftext p{
+    color: rgb(92, 90, 90);
+    padding-bottom:50px;
+    
+}
+
+.Fonpart img{
+    width: 500px;
+      height: 300px;
+      box-shadow: 10px 10px 5px #ccc;
+      -moz-box-shadow: 10px 10px 5px rgb(109, 107, 107);
+      -webkit-box-shadow: 10px 10px 5px #ccc;
+      -khtml-box-shadow: 10px 10px 5px #ccc;
+    
+}
+
+.KKP-bt{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.focus1, .focus2, .focus3{
+    max-width: 300px;
+    margin-left: 3rem;
+}
+
+.ttspace{
+    margin-top: 1rem;
+}
+
+.tt{
+    text-decoration: none;
+    color: var(--font);
+    font-size: 22px;
+}
+
+.ttspace :hover{
+    text-decoration: underline rgb(102, 24, 102);
+}
+
